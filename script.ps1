@@ -1,0 +1,3 @@
+Automatisation complète des pipelines de CI/CD
+Jenkins permet de configurer des pipelines de CI/CD complexes et automatisés pour chaque projet. Il peut déclencher des builds automatiquement lorsqu’un nouveau commit est poussé sur GitHub, vérifier la qualité du code, lancer des tests unitaires, exécuter des tests d’intégration, et déployer des applications.
+Ces pipelines sont configurables avec le fichier Jenkinsfile qui est stocké dans le dépôt GitHub, ce qui rend la configuration du pipeline reproductible et versionnée avec le code source.
